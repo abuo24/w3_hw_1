@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="063f2442-118e-44d9-a25d-3a458e619488" name="Default Changelist" comment="" />
+    <list default="true" id="063f2442-118e-44d9-a25d-3a458e619488" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oA8YpKTSNmNR7hpaL2EZyCME9H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -30,14 +35,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612718084402</updated>
-      <workItem from="1612718088223" duration="239000" />
+      <workItem from="1612718088223" duration="495000" />
     </task>
+    <task id="LOCAL-00001" summary="cd">
+      <created>1612718465972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612718465973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cd" />
+    <option name="LAST_COMMIT_MESSAGE" value="cd" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1612718464851">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1612718464851" />
+    <state x="275" y="94" key="Vcs.Push.Dialog.v2" timestamp="1612718485047">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1612718485047" />
     <state x="494" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612718442286">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
